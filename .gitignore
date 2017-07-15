@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+__pycache__
+VOCdevkit*
+VOCtrainval_06-Nov-2007.tar
+VOCtrainval_11-May-2012.tar
+ssd_keras/
+output/

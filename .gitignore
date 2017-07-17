@@ -1,4 +1,5 @@
 .ipynb_checkpoints
+PASCAL_VOC_SSD300_weight_checkpoint-epoch-16-loss-3.3392.hdf5
 __pycache__
 VOCdevkit*
 VOCtrainval_06-Nov-2007.tar
